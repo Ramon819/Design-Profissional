@@ -1,5 +1,4 @@
 📘 Design Profissional
-🎨 Visão Geral
 
 Este repositório reúne materiais, atividades e projetos desenvolvidos na disciplina Design Profissional. O foco da matéria é apresentar conceitos, processos e práticas utilizados no mercado de design, com ênfase em solução de problemas, planejamento, criação visual e comunicação eficiente.
 
